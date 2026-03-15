@@ -6,7 +6,7 @@ This project implements a behavioral biometric system that analyzes **Keystroke 
 
 ### 📄 Research Paper
 For a detailed breakdown of the methodology, feature engineering, and experimental results, please refer to our paper:
-* **Title:** [Insert Your Paper Title Here]
+* **Title:** User Data Analysis
 * **Status:** Preprint / In Submission
 * **Link:** [Click here to view the paper](https://drive.google.com/file/d/1ivlq5H7iBzZfqyz4ea_gLXvVpQLvzmZP/view?usp=sharing)
 
